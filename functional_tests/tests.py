@@ -12,7 +12,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
 				# cls.server_url = 'http://' + arg.split('=')[1]
 				# return
 		# super().setUpClass()
-		cls.server_url = 'http://superlists-staging.ottg.eu'
+		cls.server_url = 'http://xianyuyici.cn'
 		cls.live_server_url = ''
 		
 	@classmethod
